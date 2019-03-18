@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "1041037166500",
-    "firebase_url": "enter your url",
-    "project_id": "enter project id",
-    "storage_bucket": "storage bucket"
+    "project_number": "1079443488727",
+    "firebase_url": "https://carshazem-2ae19.firebaseio.com",
+    "project_id": "carshazem-2ae19",
+    "storage_bucket": "carshazem-2ae19.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1041037166500:android:64fcda983dc166a7",
+        "mobilesdk_app_id": "1:1079443488727:android:2ab17a2a200eb6ff",
         "android_client_info": {
-          "package_name": "in.tvac.akshaye.lapitchat"
+          "package_name": "com.example.osos.apprecycler"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1041037166500-qmsq4kjun0dbdrusjevegs1e56n3vt41.apps.googleusercontent.com",
+          "client_id": "1079443488727-hc0mt6lb2ij435ej8ckn2qoupg7l73cj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "in.tvac.akshaye.lapitchat",
-            "certificate_hash": "c5ed5d6a9508031163c85b3b23431345698cb7a3"
+            "package_name": "com.example.osos.apprecycler",
+            "certificate_hash": "d1f7bfaf423d4c6cb155edbd5885bf92a632808d"
           }
         },
         {
-          "client_id": "1041037166500-jhclvbrv5ge58rseak6a8uf0sjsqlmlg.apps.googleusercontent.com",
+          "client_id": "1079443488727-aam5ujn8qiaur368fq9o8m5p7n43p5di.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVVeq1CAo9xjotO00rgOPvaDfT2gs_0-I"
+          "current_key": "AIzaSyB6Dha7Pi669zBFMYoqLKdEI4h9a7pPc0U"
         }
       ],
       "services": {
@@ -40,7 +40,51 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1041037166500-jhclvbrv5ge58rseak6a8uf0sjsqlmlg.apps.googleusercontent.com",
+              "client_id": "1079443488727-aam5ujn8qiaur368fq9o8m5p7n43p5di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079443488727:android:64fcda983dc166a7",
+        "android_client_info": {
+          "package_name": "in.tvac.akshaye.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079443488727-nvsb2jlgjiceemli1htc1tgun5cvndev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tvac.akshaye.lapitchat",
+            "certificate_hash": "98846818979b9703c233c8a5b2cf22c4b34e512f"
+          }
+        },
+        {
+          "client_id": "1079443488727-aam5ujn8qiaur368fq9o8m5p7n43p5di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Dha7Pi669zBFMYoqLKdEI4h9a7pPc0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079443488727-aam5ujn8qiaur368fq9o8m5p7n43p5di.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
